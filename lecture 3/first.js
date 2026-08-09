@@ -65,9 +65,9 @@ const a = {
 
 // a.age = 10;
 
-a = {
-    name,"Sohan",
-    age: 20,
-}
+// a = {
+//     name,"Sohan",
+//     age: 20,
+// }
 
 console.log(a);
